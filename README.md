@@ -17,6 +17,7 @@ The repository contains everything from a syllabus to exercises, code, and templ
 - Code and templates for a Dialogue and Event System for Interactive Digital Narratives in Virtual Reality
 - Code for rudimentatry AI: Linear Pathfinding and NavMesh in Unity
 - Exercise for UI design
+- Exercise for digital scenography and virtual environment design
 
 ## Requirements
 The code and tutorials used in the course relied on the [VR Interaction Framework from Bearded Ninja Games.](https://bng.itch.io/vr-interaction-framework)
