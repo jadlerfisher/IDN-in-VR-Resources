@@ -24,3 +24,5 @@ The repository contains everything from a syllabus to exercises, code, and templ
 ## Requirements
 The code and tutorials used in the course relied on the [VR Interaction Framework from Bearded Ninja Games.](https://bng.itch.io/vr-interaction-framework)
 
+## Additional Resources
+Additional resources for this and similar work can be found at the [Association for Research into Interactive Digital Narratives](https://ardin.online/).
