@@ -19,6 +19,7 @@ The repository contains everything from a syllabus to exercises, code, and templ
 - Exercise for UI design
 - Exercise for digital scenography and virtual environment design
 - Exercise for NPC design
+- Exercise for Spatial Audio design
 
 ## Requirements
 The code and tutorials used in the course relied on the [VR Interaction Framework from Bearded Ninja Games.](https://bng.itch.io/vr-interaction-framework)
