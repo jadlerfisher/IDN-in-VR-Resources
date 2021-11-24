@@ -24,5 +24,14 @@ The repository contains everything from a syllabus to exercises, code, and templ
 ## Requirements
 The code and tutorials used in the course relied on the [VR Interaction Framework from Bearded Ninja Games.](https://bng.itch.io/vr-interaction-framework)
 
+## Work from the Class
+
+[![Corbit by Nina Moldawksy](https://img.youtube.com/vi/QRdEI5mdfss/0.jpg)](https://www.youtube.com/watch?v=QRdEI5mdfss)
+**Corbit by [Nina Moldawsky](https://www.ninamoldawsky.com/)
+
+[![Corbit by Nina Moldawksy](https://img.youtube.com/vi/jXitKdS3o4w/0.jpg)](https://www.youtube.com/watch?v=jXitKdS3o4w)
+**System Security by [Jake Reilly](https://www.linkedin.com/in/jake-reilly-20aa32189/)
+
+
 ## Additional Resources
 Additional resources for this and similar work can be found at the [Association for Research into Interactive Digital Narratives](https://ardin.online/).
