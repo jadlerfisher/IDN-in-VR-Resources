@@ -10,16 +10,19 @@ Research on curriculum development and pedagogy for this course has been publish
 The repository contains everything from a syllabus to exercises, code, and templates.
 
 - Syllabus from the original Columbia College Chicago course
-- Worksheet for Interactive Storytelling Structures based on Marie-laure Ryan's textual architectures
-- Worksheet for worldbuilding and concept development
-- Worksheet for conceiving spaces as moments for dramatic agency
-- Worksheet for usability studies
-- Code and templates for a Dialogue and Event System for Interactive Digital Narratives in Virtual Reality
-- Code for rudimentatry AI: Linear Pathfinding and NavMesh in Unity
-- Exercise for UI design
-- Exercise for digital scenography and virtual environment design
-- Exercise for NPC design
-- Exercise for Spatial Audio design
+- Worksheets  
+  - Interactive Storytelling Structures based on Marie-laure Ryan's textual architectures
+  - Worldbuilding and concept development
+  - Conceiving spaces as moments for dramatic agency
+  - Usability studies
+- Code and templates 
+  - Dialogue and Event System for Interactive Digital Narratives in Virtual Reality
+  - Rudimentatry AI: Linear Pathfinding and NavMesh in Unity
+- Exercises 
+  - UI design
+  - Digital scenography and virtual environment design
+  - NPC design
+  - Spatial Audio design
 
 ## Requirements
 The code and tutorials used in the course relied on the [VR Interaction Framework from Bearded Ninja Games.](https://bng.itch.io/vr-interaction-framework)
@@ -27,10 +30,12 @@ The code and tutorials used in the course relied on the [VR Interaction Framewor
 ## Work from the Class
 
 [![Corbit by Nina Moldawksy](https://img.youtube.com/vi/QRdEI5mdfss/0.jpg)](https://www.youtube.com/watch?v=QRdEI5mdfss)
-**Corbit by [Nina Moldawsky](https://www.ninamoldawsky.com/)
+
+**Corbit by [Nina Moldawsky](https://www.ninamoldawsky.com/)**
 
 [![Corbit by Nina Moldawksy](https://img.youtube.com/vi/jXitKdS3o4w/0.jpg)](https://www.youtube.com/watch?v=jXitKdS3o4w)
-**System Security by [Jake Reilly](https://www.linkedin.com/in/jake-reilly-20aa32189/)
+
+**System Security by [Jake Reilly](https://www.linkedin.com/in/jake-reilly-20aa32189/)**
 
 
 ## Additional Resources
