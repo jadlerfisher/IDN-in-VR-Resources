@@ -2,7 +2,7 @@
 ### This is a set of templates, code, and tutorials for instructors of Interactive Digital Narratives in Virtual Reality (Unity)
 
 ## Overview
-These materials were developed and gathered by Professor [Joshua A. Fisher, Ph.D.](https://www.jafisherportfolio.com) as part of an Introductory Course to Interactive Digtial Narratives in Virtual Reality. The course was taught in the spring of 2021 in the [Department of Interactive Arts and Media](https://iam.colum.edu/iamwp/) at [Columbia College Chicago.](https://www.colum.edu) 
+These materials were developed and gathered by Professor [Joshua A. Fisher, Ph.D.](https://www.jafisherportfolio.com) as part of an Introductory Course to Interactive Digital Narratives in Virtual Reality. The course was taught in the spring of 2021 in the [Department of Interactive Arts and Media](https://iam.colum.edu/iamwp/) at [Columbia College Chicago.](https://www.colum.edu) 
 
 Research on curriculum development and pedagogy for this course has been published in the Springer LNCS proceedings of the 2021 International Conference on Interactive Digital Storytelling. [The paper is available here.](https://link.springer.com/chapter/10.1007/978-3-030-92300-6_47?fbclid=IwAR020n1KmB8IvqrTeLqPuGzfueCNMYHqJKWve5ymevYTCE7gVvYCxk-0E6M) 
 
